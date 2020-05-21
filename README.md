@@ -14,6 +14,6 @@ You can all requirements in <code>install.sh</code>
 
 ## Vedio Demo
 
-[Click here to watch video](https://asciinema.org/a/mxHvnta0VF10M4tKA4l6MfRnq)
+[Click here to watch video](https://asciinema.org/a/332501)
 
 
