@@ -12,7 +12,7 @@ You can all requirements in <code>install.sh</code>
 
 <code>python trackiss.py</code>
 
-## Vedio Demo
+## Video Demo
 
 [Click here to watch video](https://asciinema.org/a/332501)
 
